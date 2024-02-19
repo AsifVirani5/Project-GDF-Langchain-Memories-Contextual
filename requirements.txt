@@ -1,0 +1,15 @@
+flask
+openai
+jsonify
+requests
+uvicorn
+gunicorn
+python-dotenv
+autopep8
+python-dotenv
+google-generativeai
+langchain-google-genai
+langchain
+
+
+
